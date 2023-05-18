@@ -23,7 +23,7 @@ ROUTER = DEX ROUTER ADDRESS
 BASE = EX. WBNB, USDT, BUSD
 TOKEN = TOKEN CONTRACT ADDRESS
 
- _.callStatic.isHoneyPot(ROUTER,BASE,TOKEN, {
+ _.callStatic.testHoneyPot(ROUTER,BASE,TOKEN, {
         value: AMOUNT
 });
 
