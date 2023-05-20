@@ -1,3 +1,5 @@
+Disclaimer: I developed this smart contract in the 2021 crypto bull run. It might not produce expected results as of now. Use it for learning purpose only.
+
 # HoneyPotTest
 
 A simple contract to check if a token contract is a honeypot or not.
